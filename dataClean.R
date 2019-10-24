@@ -30,7 +30,12 @@ for (i in 1:length(y)){
 }
 y <- na.omit(y)
 
-
-
-
 write.csv(x,file="dataInmueblesFecha(15-07-2019--14-10-2019).csv", fileEncoding = "UTF-8")
+
+
+
+
+
+
+
+
